@@ -1,0 +1,21 @@
+{
+  "name": "assign-student-mentor-api",
+  "version": "1.0.0",
+  "description": "student-mentor-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node": ">=14.20.1"
+  },
+  "author": "elansezhian r",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2",
+    "nodemon": "^3.0.1",
+    "npx": "^10.2.2"
+  }
+}
